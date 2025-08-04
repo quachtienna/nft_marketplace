@@ -1,0 +1,17 @@
+Deployer Address: STT7DEMBVKGRGBQFG5EP801XC71566V9ZQM4C9GZ
+Network: Stacks Testnet
+Status: ✅ Successfully Deployed
+Deployment Cost: 0.089660 STX
+
+Transaction IDs:
+- simple-nft.clar: 336d43ac5e8f7118e9d6ebd78e8ae3450660...
+- nft-marketplace.clar: 475a978fbcb7ef74ca8d91e93fdd5ec68a8b...
+
+Contract Addresses:
+- NFT Contract: STT7DEMBVKGRGBQFG5EP801XC71566V9ZQM4C9GZ.simple-nft
+- Marketplace Contract: STT7DEMBVKGRGBQFG5EP801XC71566V9ZQM4C9GZ.nft-marketplace
+
+Explorer Links:
+- Deployer: https://explorer.stacks.co/address/STT7DEMBVKGRGBQFG5EP801XC71566V9ZQM4C9GZ?chain=testnet
+- NFT Contract: https://explorer.stacks.co/address/STT7DEMBVKGRGBQFG5EP801XC71566V9ZQM4C9GZ.simple-nft?chain=testnet
+- Marketplace: https://explorer.stacks.co/address/STT7DEMBVKGRGBQFG5EP801XC71566V9ZQM4C9GZ.nft-marketplace?chain=testnet

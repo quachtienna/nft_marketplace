@@ -1,0 +1,22 @@
+[project]
+name = "nft-marketplace"
+description = "Simple NFT marketplace for buying and selling SIP-009 NFTs"
+authors = ["Developer"]
+telemetry = false
+cache_dir = "./.cache"
+requirements = []
+boot_contracts = []
+
+[contracts.simple-nft]
+path = "contracts/simple-nft.clar"
+clarity_version = 2
+epoch = 2.4
+
+[contracts.nft-marketplace]
+path = "contracts/nft-marketplace.clar"
+clarity_version = 2
+epoch = 2.4
+
+[repl]
+costs_version = 2
+parser_version = 2
