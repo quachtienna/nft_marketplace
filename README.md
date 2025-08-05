@@ -1,5 +1,7 @@
 # Project 12: Simple NFT Marketplace
 
+Contract Addresses: STT7DEMBVKGRGBQFG5EP801XC71566V9ZQM4C9GZ.simple-nft
+
 ## Mô tả
 Simple NFT Marketplace là một smart contract đơn giản cho phép mua bán NFT một cách an toàn và hiệu quả. Đây là infrastructure cơ bản cần thiết cho mọi NFT ecosystem.
 
